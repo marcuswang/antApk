@@ -4,4 +4,8 @@
 .project
 project.properties
 .settings
+<<<<<<< HEAD
 /.idea
+=======
+/.idea
+>>>>>>> 756729c4933b7cd7cc656d129a4c4db235a9596c
